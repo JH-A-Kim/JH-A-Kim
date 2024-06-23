@@ -27,7 +27,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JH-A-Kim&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JH-A-Kim&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JH-A-Kim&layout=compact)
 
 ## Contact
