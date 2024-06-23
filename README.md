@@ -29,11 +29,11 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh-a-kim&show_icons=true&locale=en&layout=compact&count_private=true" alt="jh-a-kim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh-a-kim&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="jh-a-kim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh-a-kim&show_icons=true&locale=en&count_private=true" alt="jh-a-kim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh-a-kim&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="jh-a-kim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jh-a-kim&" alt="jh-a-kim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jh-a-kim&theme=tokyonight" alt="jh-a-kim" /></p>
 
 ## Contact
 
