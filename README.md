@@ -29,6 +29,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JH-A-Kim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JH-A-Kim&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&langs_count=6)
+![JH-A-Kim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JH-A-Kim&theme=tokyonight&hide_border=true)
 
 ## Contact
 
