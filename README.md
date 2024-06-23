@@ -29,7 +29,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh-a-kim&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="jh-a-kim" /></p>
+<p><img align="left" src="https://https://github-readme-stats-eight-sooty-25.vercel.app/api/top-langs?username=jh-a-kim&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="jh-a-kim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh-a-kim&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="jh-a-kim" /></p>
 
