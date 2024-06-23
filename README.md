@@ -29,9 +29,11 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## GitHub Stats
 
-![JH-A-Kim's Stats](https://github-readme-stats.vercel.app/api?username=JH-A-Kim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JH-A-Kim&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&langs_count=6)
-![JH-A-Kim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JH-A-Kim&theme=tokyonight&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh-a-kim&show_icons=true&locale=en&layout=compact&count_private=true" alt="jh-a-kim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh-a-kim&show_icons=true&locale=en&count_private=true" alt="jh-a-kim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jh-a-kim&" alt="jh-a-kim" /></p>
 
 ## Contact
 
