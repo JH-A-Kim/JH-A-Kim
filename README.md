@@ -1,4 +1,4 @@
-c# Hi there, I'm Jung-Hyun Andrew Kim 👋
+C# Hi there, I'm Jung-Hyun Andrew Kim 👋
 
 ## About Me
 
