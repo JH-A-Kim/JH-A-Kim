@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. I specialize in full-stack web development and have experience with various programming languages and frameworks. I am also SFU's GitHub Campus Expert so feel free to bring any GitHub questions to me!
+I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. I specialize in DevOps and Site Reliability Engineering and have experience with various programming languages and frameworks. I am also SFU's GitHub Campus Expert so feel free to bring any GitHub questions to me!
 
 - 🌱 I’m currently learning [React, Node.js].
 - 💬 Ask me about [SKT T1].
