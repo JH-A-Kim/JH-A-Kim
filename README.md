@@ -27,7 +27,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## GitHub Stats
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JH-A-Kim
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JH-A-Kim)
 
 <p><img align="left" src="https://github-readme-stats-andrews-projects-c3ef36e0.vercel.app/api/top-langs?username=jh-a-kim&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="jh-a-kim" /></p>
 
